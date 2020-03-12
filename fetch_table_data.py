@@ -8,10 +8,7 @@ Created on Mon Feb  3 21:23:46 2020
 from airtable import Airtable 
 import pandas as pd
 from datetime import datetime
-import os
 import json
-
-os.chdir('C:/Data Science/airtable/')
 
 #Paste the API key here 
 API_Key = ''
